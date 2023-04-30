@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fiona Chen. I'm a student at the Univeristy of Waterloo and wilfrid Laurier Univeristy studying Computer Science and Business Administration
+- 👋 Hi, I’m Fiona Chen. I'm a student at the Univeristy of Waterloo and Wilfrid Laurier Univeristy studying Computer Science and Business Administration
 - 👀 I’m interested in AI, game design and Quantitative Finance
 - 💞️ I’m looking to collaborate on any fun projects
 - 📫 Feel free to contact me!
